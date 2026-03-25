@@ -37,4 +37,4 @@ I am a researcher seeking full time positions in complex agent based simulations
 - Google Scholar [https://scholar.google.com/citations?user=rse5AfMAAAAJ&hl=en]
 
 ## Thank you!
-If you like what you see, feel free to star a repo or reach out. I’m always open to collaborating or chatting about new ideas. Check out more of my on my Portfolio [here](https://binaryvectorjr.github.io/portfolio).
+If you like what you see, feel free to star a repo or reach out. I’m always open to collaborating or chatting about new ideas. Check out more of my previous projects on my Portfolio [here](https://binaryvectorjr.github.io/portfolio).
